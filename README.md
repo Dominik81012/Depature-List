@@ -1,26 +1,67 @@
-# SweatScope Departure List
+# ✈️ SweatScope Departure List
 
-Modern multiplayer ATC departure list tool inspired by EuroScope and real-world tower operations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Development-2ea043?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multiplayer-Supported-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-# Features
+## 🛫 About
 
-* Real-time multiplayer controller sessions
-* Shared synchronized flight strips
-* ATIS integration
-* SID validation system
-* Shared runway synchronization
-* Squawk generation and editing
-* Flight Plan dialog editor
-* STS management
-* Shared remarks and updates
+SweatScope Departure List is a modern multiplayer ATC departure management tool inspired by EuroScope and real-world tower workflows.
+
+The application allows controllers to manage synchronized departure strips, ATIS information, SID assignments, squawks, runway coordination, and flight plan data in real time.
+
+---
+
+# ✨ Features
+
+## 👥 Multiplayer Controller Sessions
+
+* Real-time synchronized controller sessions
+* Shared live departure strips
+* Shared runway and ATIS synchronization
+* Controller join requests
+* Controller management system
+
+---
+
+## 🗂️ Flight Strip System
+
+* Modern departure strip layout
+* Shared live updates between controllers
+* Editable remarks
+* STS system
 * IFR / VFR support
-* Modern Windows-style interface
+* Shared SID and runway selection
+* Temporary altitude handling
+* Manual and generated squawk support
 
 ---
 
-# Technologies
+## 📡 ATIS Integration
+
+* Shared synchronized ATIS state
+* Departure and arrival runway support
+* Dynamic runway synchronization
+* Automatic FPC validation
+
+---
+
+## 🖥️ Flight Plan Dialog
+
+* Editable flight plan information
+* Alternate airport support
+* Route and remarks editor
+* Squawk editor
+* Temporary altitude editor
+* IFR / VFR switching
+
+---
+
+# 🛠️ Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -32,7 +73,7 @@ Modern multiplayer ATC departure list tool inspired by EuroScope and real-world 
 
 ---
 
-# Installation
+# 📥 Installation
 
 1. Download the latest release
 2. Run the installer
@@ -41,7 +82,7 @@ Modern multiplayer ATC departure list tool inspired by EuroScope and real-world 
 
 ---
 
-# Antivirus / Analysis Notice
+# ⚠️ Antivirus / Analysis Notice
 
 The application may trigger false-positive antivirus detections because:
 
@@ -55,16 +96,24 @@ If you are unsure about the file, you are free to:
 * analyze it inside a virtual machine
 * test it using services like VirusTotal or Triage
 
-https://tria.ge/
+🔗 https://tria.ge/
 
 ---
 
-# Project Status
+# 💬 Discord
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-Dominik81012-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+---
+
+# 🚧 Project Status
 
 The project is actively developed and continuously improved with new multiplayer and ATC workflow features.
 
 ---
 
-# Disclaimer
+# 📄 Disclaimer
 
 This project is intended for virtual aviation and entertainment purposes only.
