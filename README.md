@@ -1,4 +1,4 @@
-# ✈️ SweatScope Departure List
+# ✈️ Departure List
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Development-2ea043?style=for-the-badge"/>
@@ -10,7 +10,7 @@
 
 ## 🛫 About
 
-SweatScope Departure List is a modern multiplayer ATC departure management tool inspired by EuroScope and real-world tower workflows.
+Departure List is a modern multiplayer ATC departure management tool inspired by EuroScope and real-world tower workflows.
 
 The application allows controllers to manage synchronized departure strips, ATIS information, SID assignments, squawks, runway coordination, and flight plan data in real time.
 
@@ -77,7 +77,7 @@ The application allows controllers to manage synchronized departure strips, ATIS
 
 1. Download the latest release
 2. Run the installer
-3. Launch SweatScope Departure List
+3. Launch Departure List
 4. Create or join a controller session
 
 ---
